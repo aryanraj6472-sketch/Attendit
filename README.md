@@ -14,7 +14,7 @@
 
 ---
 
-## 🚨 The Problem hello wolrd
+## 🚨 The Problem
 Student IDs get borrowed for proxy attendance. PINs get shoulder-surfed. OTPs get forwarded.  
 Traditional authentication checks *what you hold*—not *who you are*.
 
