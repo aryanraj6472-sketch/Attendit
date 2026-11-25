@@ -1,3 +1,8 @@
+# Secrets & local test logs
 .env
-.vscode/
 attendance_logs.json
+
+# Python & editor cache
+__pycache__/
+*.pyc
+.vscode/
